@@ -9,8 +9,6 @@
 </template>
 
 <script>
-import TagsView from './components/TagsView'
-import comHeader from '@/components/comHeader'
 export default {
 name: '',
 data () {
